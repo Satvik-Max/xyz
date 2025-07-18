@@ -1,0 +1,71 @@
+[
+    {
+      "team_name": "Innovators",
+      "leader": {
+        "name": "Rahul Sharma",
+        "email": "rahul.sharma@gmail.com",
+        "college": "GCOE Nagpur",
+        "year": "3rd",
+        "department": "CSE",
+        "present": false
+      },
+      "members": [
+        {
+          "name": "Priya Singh",
+          "email": "priya.singh@gmail.com",
+          "college": "GCOE Nagpur",
+          "year": "3rd",
+          "department": "CSE"
+        },
+        {
+          "name": "Amit Patel",
+          "email": "amit.patel@gmail.com",
+          "college": "GCOE Nagpur",
+          "year": "3rd",
+          "department": "CSE"
+        },
+        {
+          "name": "Sneha Gupta",
+          "email": "sneha.gupta@gmail.com",
+          "college": "GCOE Nagpur",
+          "year": "3rd",
+          "department": "CSE"
+        }
+      ]
+    },
+    {
+      "team_name": "Tech Titans",
+      "leader": {
+        "name": "Anjali Verma",
+        "email": "anjali.verma@gmail.com",
+        "college": "IIT Bombay",
+        "year": "2nd",
+        "department": "ECE",
+        "present": false
+      },
+      "members": [
+        {
+          "name": "Karan Malhotra",
+          "email": "karan.malhotra@gmail.com",
+          "college": "IIT Bombay",
+          "year": "2nd",
+          "department": "ECE"
+        },
+        {
+          "name": "Meera Iyer",
+          "email": "meera.iyer@gmail.com",
+          "college": "IIT Bombay",
+          "year": "2nd",
+          "department": "ECE"
+        },
+        {
+          "name": "Rajesh Kumar",
+          "email": "rajesh.kumar@gmail.com",
+          "college": "IIT Bombay",
+          "year": "2nd",
+          "department": "ECE"
+        }
+      ]
+    }
+  ]
+  

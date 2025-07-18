@@ -1,0 +1,43 @@
+{
+  "name": "admingdgc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.14.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.2.0",
+    "@mui/material": "^6.2.0",
+    "@mui/material-nextjs": "^6.2.0",
+    "@mui/styled-engine-sc": "^6.2.0",
+    "@toolpad/core": "^0.11.0",
+    "appwrite": "^16.0.2",
+    "html5-qrcode": "^2.3.8",
+    "lucide-react": "^0.474.0",
+    "moment": "^2.30.1",
+    "next": "15.1.0",
+    "nodemailer": "^6.9.16",
+    "razorpay": "^2.9.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-drag-drop-files": "^2.4.0",
+    "react-hot-toast": "^2.4.1",
+    "styled-components": "^6.1.13",
+    "suneditor": "^2.47.0",
+    "suneditor-react": "^3.6.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
